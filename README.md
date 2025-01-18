@@ -33,8 +33,6 @@ Hello! I’m Dhakshina Perera, a passionate and dedicated software engineering s
 ---
 
 
----
-
 ## 🌟 Achievements
 - **2016**: Merit Award in Sri Lankan Junior Astronomy Olympiad Competition  
 - **2022**: Completed *Introduction to Cybersecurity* by CISCO  
